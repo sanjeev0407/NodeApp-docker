@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/rchidana/NodeApp"
+    "url": "https://github.com/sanjeev0407/NodeApp-docker.git"
   },
   "keywords": [
     "node",
     "docker",
     "dockerfile"
   ],
-  "author": "crudsinfotechng@gmail.com",
+  "author": "sanjeevkumar.anagandula@gmail.com",
   "license": "ISC",
   "devDependencies": { "test": ">=0.6.0" }
 }
